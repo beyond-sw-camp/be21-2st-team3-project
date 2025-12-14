@@ -1,4 +1,5 @@
-
+- 백엔드에 대한 작업과정이 궁금하시다면?
+- https://github.com/beyond21-unhal/backend 를 와주시면 감사하겠습니다!
 
 
 ## 👥 Team 𝒜𝓂𝓊𝓇𝒶𝑒𝒹𝑜 팀원 소개
