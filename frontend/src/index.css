@@ -1,0 +1,5 @@
+/* Reset - Vite 기본 스타일 제거 */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
